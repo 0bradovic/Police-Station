@@ -1,0 +1,11 @@
+C:\Users\Booproweb-3\Desktop\Police Station\PolicijskaStanica\PolicijskaStanica\PolicijskaStanica\bin\Debug\PolicijskaStanica.exe.config
+C:\Users\Booproweb-3\Desktop\Police Station\PolicijskaStanica\PolicijskaStanica\PolicijskaStanica\bin\Debug\PolicijskaStanica.exe
+C:\Users\Booproweb-3\Desktop\Police Station\PolicijskaStanica\PolicijskaStanica\PolicijskaStanica\bin\Debug\PolicijskaStanica.pdb
+C:\Users\Booproweb-3\Desktop\Police Station\PolicijskaStanica\PolicijskaStanica\PolicijskaStanica\obj\Debug\PolicijskaStanica.csprojAssemblyReference.cache
+C:\Users\Booproweb-3\Desktop\Police Station\PolicijskaStanica\PolicijskaStanica\PolicijskaStanica\obj\Debug\PolicijskaStanica.PolicijskaStanica.resources
+C:\Users\Booproweb-3\Desktop\Police Station\PolicijskaStanica\PolicijskaStanica\PolicijskaStanica\obj\Debug\PolicijskaStanica.Properties.Resources.resources
+C:\Users\Booproweb-3\Desktop\Police Station\PolicijskaStanica\PolicijskaStanica\PolicijskaStanica\obj\Debug\PolicijskaStanica.csproj.GenerateResource.cache
+C:\Users\Booproweb-3\Desktop\Police Station\PolicijskaStanica\PolicijskaStanica\PolicijskaStanica\obj\Debug\PolicijskaStanica.csproj.CoreCompileInputs.cache
+C:\Users\Booproweb-3\Desktop\Police Station\PolicijskaStanica\PolicijskaStanica\PolicijskaStanica\obj\Debug\PolicijskaStanica.exe
+C:\Users\Booproweb-3\Desktop\Police Station\PolicijskaStanica\PolicijskaStanica\PolicijskaStanica\obj\Debug\PolicijskaStanica.pdb
+C:\Users\Booproweb-3\Desktop\Police Station\PolicijskaStanica\PolicijskaStanica\PolicijskaStanica\obj\Debug\PolicijskaStanica.Form2.resources
